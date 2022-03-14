@@ -11,10 +11,10 @@ import (
 
 	"github.com/ysmood/gson"
 
-	"github.com/go-rod/rod/lib/cdp"
-	"github.com/go-rod/rod/lib/js"
-	"github.com/go-rod/rod/lib/proto"
-	"github.com/go-rod/rod/lib/utils"
+	"github.com/7nikhilkamboj/rod/lib/cdp"
+	"github.com/7nikhilkamboj/rod/lib/js"
+	"github.com/7nikhilkamboj/rod/lib/proto"
+	"github.com/7nikhilkamboj/rod/lib/utils"
 )
 
 // Element implements these interfaces

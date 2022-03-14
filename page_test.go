@@ -12,12 +12,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/go-rod/rod"
-	"github.com/go-rod/rod/lib/defaults"
-	"github.com/go-rod/rod/lib/devices"
-	"github.com/go-rod/rod/lib/input"
-	"github.com/go-rod/rod/lib/proto"
-	"github.com/go-rod/rod/lib/utils"
+	"github.com/7nikhilkamboj/rod"
+	"github.com/7nikhilkamboj/rod/lib/defaults"
+	"github.com/7nikhilkamboj/rod/lib/devices"
+	"github.com/7nikhilkamboj/rod/lib/input"
+	"github.com/7nikhilkamboj/rod/lib/proto"
+	"github.com/7nikhilkamboj/rod/lib/utils"
 	"github.com/ysmood/got"
 )
 

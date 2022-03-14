@@ -1,7 +1,7 @@
 package devices
 
 import (
-	"github.com/go-rod/rod/lib/proto"
+	"github.com/7nikhilkamboj/rod/lib/proto"
 )
 
 // Device represents a emulated device.

@@ -1,8 +1,8 @@
 package rod_test
 
 import (
-	"github.com/go-rod/rod"
-	"github.com/go-rod/rod/lib/proto"
+	"github.com/7nikhilkamboj/rod"
+	"github.com/7nikhilkamboj/rod/lib/proto"
 )
 
 func (t T) BrowserWithPanic() {

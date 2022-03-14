@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/go-rod/rod/lib/input"
-	"github.com/go-rod/rod/lib/proto"
+	"github.com/7nikhilkamboj/rod/lib/input"
+	"github.com/7nikhilkamboj/rod/lib/proto"
 )
 
 // Keyboard represents the keyboard on a page, it's always related the main frame

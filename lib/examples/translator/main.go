@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/go-rod/rod"
+	"github.com/7nikhilkamboj/rod"
 )
 
 func main() {

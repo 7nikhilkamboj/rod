@@ -7,7 +7,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/go-rod/rod"
+	"github.com/7nikhilkamboj/rod"
 )
 
 var flagPort = flag.Int("port", 8544, "port")

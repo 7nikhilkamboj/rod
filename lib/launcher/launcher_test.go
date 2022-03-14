@@ -15,9 +15,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-rod/rod/lib/defaults"
-	"github.com/go-rod/rod/lib/launcher"
-	"github.com/go-rod/rod/lib/launcher/flags"
+	"github.com/7nikhilkamboj/rod/lib/defaults"
+	"github.com/7nikhilkamboj/rod/lib/launcher"
+	"github.com/7nikhilkamboj/rod/lib/launcher/flags"
 	"github.com/ysmood/got"
 )
 

@@ -9,8 +9,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/go-rod/rod/lib/defaults"
-	"github.com/go-rod/rod/lib/utils"
+	"github.com/7nikhilkamboj/rod/lib/defaults"
+	"github.com/7nikhilkamboj/rod/lib/utils"
 )
 
 // Client is a devtools protocol connection instance.

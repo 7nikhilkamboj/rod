@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/go-rod/rod/lib/utils"
+	"github.com/7nikhilkamboj/rod/lib/utils"
 )
 
 const mirror = "https://registry.npmmirror.com/-/binary/chromium-browser-snapshots/"

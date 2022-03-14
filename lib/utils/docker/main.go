@@ -10,7 +10,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/go-rod/rod/lib/utils"
+	"github.com/7nikhilkamboj/rod/lib/utils"
 )
 
 const registry = "ghcr.io"
@@ -73,5 +73,5 @@ func description() string {
 
 	sha := strings.TrimSpace(string(b))
 
-	return `--label=org.opencontainers.image.description=https://github.com/go-rod/rod/blob/` + sha + "/lib/docker/Dockerfile"
+	return `--label=org.opencontainers.image.description=https://github.com/7nikhilkamboj/rod/blob/` + sha + "/lib/docker/Dockerfile"
 }

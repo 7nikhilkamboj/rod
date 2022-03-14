@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/go-rod/rod/lib/utils"
+	"github.com/7nikhilkamboj/rod/lib/utils"
 )
 
 type timeoutContextKey struct{}

@@ -3,7 +3,7 @@ package devices_test
 import (
 	"testing"
 
-	"github.com/go-rod/rod/lib/devices"
+	"github.com/7nikhilkamboj/rod/lib/devices"
 	"github.com/ysmood/got"
 )
 
